@@ -1,0 +1,18 @@
+body {
+     background-color: #E8F9FD;            
+     }
+     h1{
+        color: #10A19D;
+       }
+       h3{
+        color: #10A19D;
+       }
+       h4{
+        color: #10A19D;
+       }
+  hr{
+    border-style: none;
+    border-top-style: inset;  
+    border-width: 2px;
+    width: 100%;
+    }
